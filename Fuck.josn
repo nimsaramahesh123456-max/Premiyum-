@@ -29,7 +29,7 @@
     "94772406988": "2026-11-10",
     "94715864857": "2026-11-09",
     "0774559269": "2026-11-08",
-    "94717234881": "2026-11-25"
+    "94716190819": "2026-11-02"
   },
   "premiumBots": [
     "94772160189",
@@ -61,6 +61,47 @@
     "94766898412",
     "94741010287",
     "94760014840",
-    "94717234881"
-  ]
+    "0715864857",
+    "0774559269",
+    "0769895105",
+    "94716190819"
+  ],
+  "_purchased": {
+    "94716190819": "2026-10-26"
+  },
+  "_services": {
+    "94772160189": "Ghost Movie Bot",
+    "94782590182": "Ghost Movie Bot",
+    "94762669560": "Ghost Movie Bot",
+    "94771224063": "Ghost Movie Bot",
+    "94701390143": "Ghost Movie Bot",
+    "94743882549": "Ghost Movie Bot",
+    "94774118617": "Ghost Movie Bot",
+    "94743424752": "Ghost Movie Bot",
+    "94760698006": "Ghost Movie Bot",
+    "94769895105": "Ghost Movie Bot",
+    "94703830990": "Ghost Movie Bot",
+    "94715864857": "Ghost Movie Bot",
+    "94774559269": "Ghost Movie Bot",
+    "94772406988": "Ghost Movie Bot",
+    "94714002469": "Ghost Movie Bot",
+    "94729990565": "Ghost Movie Bot",
+    "94760502505": "Ghost Movie Bot",
+    "94763809289": "Ghost Movie Bot",
+    "94774602744": "Ghost Movie Bot",
+    "94726815785": "Ghost Movie Bot",
+    "94763889499": "Ghost Movie Bot",
+    "94740551292": "Ghost Movie Bot",
+    "94763952882": "Ghost Movie Bot",
+    "94783477683": "Ghost Movie Bot",
+    "94761602391": "Ghost Movie Bot",
+    "94772350830": "Ghost Movie Bot",
+    "94766898412": "Ghost Movie Bot",
+    "94741010287": "Ghost Movie Bot",
+    "94760014840": "Ghost Movie Bot",
+    "0715864857": "Ghost Movie Bot",
+    "0774559269": "Ghost Movie Bot",
+    "0769895105": "Ghost Movie Bot",
+    "94716190819": "Ghost Movie Bot"
+  }
 }
